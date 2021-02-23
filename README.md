@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello!
+Thanks for checking out my profile!
 
-<!--
-**davidracovan/davidracovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on some Discord bots (see davidracovan/discord-bots) and some CyberPatriot scripts (private repo, sorry but you can't see it :))
 
-Here are some ideas to get you started:
+## Languages
+- Python
+- Java
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+- Programming!
+- Gaming
+- Swimming
+- Cycling
+
+## Contact Me
+davidracovan@yahoo.com
