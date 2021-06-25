@@ -7,7 +7,7 @@ I'm currently working on some Discord bots ([superpenguin612/discord-bots](https
 - Java
 - Python
 - C++ (learning)
-- HTML/CSS/JS
+- HTML/CSS/JS/SQL
 
 ## 🎮 Hobbies
 - Programming!
