@@ -15,4 +15,4 @@ I'm currently working on some Discord bots (see superpenguin/discord-bots) and s
 - Cycling
 
 ## 📬 Contact Me
-superpenguin612#6568 on Discord
+superpenguin612#4406 on Discord
