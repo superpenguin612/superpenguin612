@@ -16,4 +16,4 @@ I'm currently working on some Discord bots ([superpenguin612/discord-bots](https
 - Cycling
 
 ## 📬 Contact Me
-spookypenguin612#4406 on Discord
+superpenguin612#4406 on Discord
