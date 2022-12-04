@@ -1,7 +1,15 @@
 # Hello!
 Thanks for checking out my profile!
 
-I'm currently working on some Discord bots ([superpenguin612/discord-bots](https://github.com/superpenguin612/discord-bots)), some CyberPatriot resources (private repo to comply with competition rules), and I'm studying competitive programming/algorithms for USACO. Also, I'm getting ready to start a big project over at [superpenguin612/ccs-connect](https://github.com/superpenguin612/ccs-connect).
+I am currently working on several projects:
+- A "swerve" robot (where four wheels on the corners can spin independently, allowing for the decoupling of translation from rotation) (https://github.com/frc868/2023-Swerve)
+  - Trajectory generation and path following
+  - Dynamic path planning using fiducial markers (AprilTags)
+  - Utilizing advanced controls like PID, feed-forward models, and state-space control
+- A framework for the CyberPatriot National Youth Cyber Defense Competition that can detect configurations in both Windows and Linux operating systems and automatically apply configuration changes to improve the security of said systems (private repository to comply with competition rules)
+  - Includes tools useful for incident response and common sysadmin tasks
+- Creating both programming and electrical curriculums for my FRC team, [@frc868](https://github.com/frc868)
+  - Takes students through the basics of how to wire and program an FRC robot, up to how to autonomously follow paths and write idiomatic, clean code to simplify workflows and debugging.
 
 ## Languages
 - Java
@@ -10,8 +18,8 @@ I'm currently working on some Discord bots ([superpenguin612/discord-bots](https
 - HTML/CSS/JS/SQL
 
 ## Hobbies
-- Programming!
-- Gaming
+- Programming
+- Robotics
 - Swimming
 - Cycling
 
